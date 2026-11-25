@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "GitHub profile README",
+  "tagline": "The README that GitHub shows at the top of the HelloWorldIE profile page",
+  "summary": "The special repo whose README GitHub shows on the HelloWorldIE profile. It still holds GitHub's starter text: a short greeting, with the suggested profile lines left commented out. Unchanged since it was created in March 2024.",
+  "category": "ops",
+  "kind": "docs",
+  "status": "live",
+  "audience": ["public"],
+  "features": [
+    "Edit README.md to change what visitors see at the top of the HelloWorldIE profile"
+  ],
+  "built_with": ["GitHub profile README"],
+  "updated": "2026-11-26"
+}
