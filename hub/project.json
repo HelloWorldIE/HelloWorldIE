@@ -18,5 +18,13 @@
     "GitHub profile README",
     "Markdown"
   ],
+  "cover": "hub/cover.jpg",
+  "gallery": [
+    {
+      "src": "hub/gallery/01-profile.jpg",
+      "caption": "The HelloWorldIE profile on GitHub with this README at the top, as a visitor sees it (profile photo blurred).",
+      "alt": "GitHub profile page: the README with the HelloWorld bot, the heading HelloWorld.ie, the slogan and the hub, beside the profile details"
+    }
+  ],
   "updated": "2026-11-26"
 }

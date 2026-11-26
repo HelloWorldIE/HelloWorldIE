@@ -1,0 +1,11 @@
+{
+  "public_url": "https://github.com/HelloWorldIE",
+  "width": 1600, "height": 1000, "wait": 5000,
+  "setup": "document.querySelectorAll('img.avatar-user, img.avatar').forEach(function(e){e.style.filter='blur(18px) grayscale(1)'})",
+  "cover": { "path": "" },
+  "gallery": [
+    { "file": "01-profile.jpg", "path": "", "width": 1440, "height": 900,
+      "caption": "The HelloWorldIE profile on GitHub with this README at the top, as a visitor sees it (profile photo blurred).",
+      "alt": "GitHub profile page: the README with the HelloWorld bot, the heading HelloWorld.ie, the slogan and the hub, beside the profile details" }
+  ]
+}
