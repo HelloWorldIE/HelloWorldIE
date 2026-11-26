@@ -1,15 +1,22 @@
 {
   "schema": 1,
   "name": "GitHub profile README",
-  "tagline": "The README that GitHub shows at the top of the HelloWorldIE profile page",
-  "summary": "The special repo whose README GitHub shows on the HelloWorldIE profile. It still holds GitHub's starter text: a short greeting, with the suggested profile lines left commented out. Unchanged since it was created in March 2024.",
+  "tagline": "The README on the HelloWorldIE profile page: who HelloWorld is and where to start",
+  "summary": "The special repo whose README GitHub shows on the HelloWorldIE profile. It says who HelloWorld is, points to the repository hub, and links the live products anyone can try: helloworld.ie, Framely and Secret Santa. Rewritten in November 2026.",
   "category": "ops",
   "kind": "docs",
   "status": "live",
-  "audience": ["public"],
-  "features": [
-    "Edit README.md to change what visitors see at the top of the HelloWorldIE profile"
+  "audience": [
+    "public"
   ],
-  "built_with": ["GitHub profile README"],
+  "features": [
+    "Introduce HelloWorld to anyone who opens the profile",
+    "Lead visitors to the repository hub, where they can sign in to see more",
+    "Link the live products: helloworld.ie, Framely and Secret Santa"
+  ],
+  "built_with": [
+    "GitHub profile README",
+    "Markdown"
+  ],
   "updated": "2026-11-26"
 }
